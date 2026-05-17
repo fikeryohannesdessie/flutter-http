@@ -86,19 +86,6 @@ https://dummyjson.com
 
 ---
 
-## How To Run
-
-```bash
-flutter pub get
-flutter run
-```
-
----
-
-## Notes
-- The project uses the DummyJSON API for testing CRUD operations.
-- The application follows a clean and maintainable Flutter project structure.
-- CRUD operations are handled using Provider state management.
 
 ---
 
