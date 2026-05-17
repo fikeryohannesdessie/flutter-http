@@ -73,16 +73,16 @@ https://dummyjson.com
 ## Screenshots
 
 ### Home Screen
-![Home](Flutter%20http/Screenshots/Homescreen.png)
+![Home](Screenshots/Homescreen.png)
 
 ### Create Product
-![Create](Flutter%20http/Screenshots/CREATE.png)
+![Create](Screenshots/CREATE.png)
 
 ### Update Product
-![Update](Flutter%20http/Screenshots/UPDATE.png)
+![Update](Screenshots/UPDATE.png)
 
 ### Delete Product
-![Delete](Flutter%20http/Screenshots/DELETE.png)
+![Delete](Screenshots/DELETE.png)
 
 ---
 
